@@ -4,40 +4,45 @@
 
 ---
 
-## Skills
-
-- Golang
-- Typescript
-- React JS
-- Node JS
-- Python
-- Java
-- Git
-- Docker
-- MySQL
-- PostgreSQL
-- Kubernetes
-- Terraform
-- Amazon Web Service
-- Google Cloud Platform
-
----
-
 ## Links
 
 - [https://github.com/mirzaakhena](https://github.com/mirzaakhena)
 
 ---
 
-## Hobbies & Activities
+## Skills
 
-I enjoy coding. I also like experimenting to create my own frameworks and tools to simplify life, reduce repetitive and boring tasks. I also enjoy learning, teaching, sharing, and discussing.
+**Programming Languages:**
+
+- Golang, Typescript, Python, Java
+
+**Frontend Technologies:**
+
+- React JS, Node JS
+
+**Backend Technologies:**
+
+- MySQL, PostgreSQL, Docker
+
+**DevOps:**
+
+- Kubernetes, Terraform, Git
+
+**Cloud Platforms:**
+
+- Amazon Web Services, Google Cloud Platform
 
 ---
 
 ## Profile
 
 Mirza, an IT professional since 2008, began as a game developer, driven by his passion for coding. He mastered various aspects of software development, including system design, testing, and end-user training. His strong client communication skills prioritize customer satisfaction, and he thrives on solving challenges as a tech lead. Mirza's creativity shines in crafting tools for streamlined development, and he continuously enhances his skills through self-study, focusing on areas like Data Structures and Clean Code principles, believing in their impact on software development productivity.
+
+---
+
+## Hobbies & Activities
+
+I enjoy coding. I also like experimenting to create my own frameworks and tools to simplify life, reduce repetitive and boring tasks. I also enjoy learning, teaching, sharing, and discussing.
 
 ---
 
